@@ -49,7 +49,7 @@ python main.py
 ```
 
 ## 📝 Code Usage and Output
-Code works on video inputs as well as in real time
+Code works on video inputs as well as in real time <br>
 Images are just used to display its efficiency
 #### Input vs Output
 
