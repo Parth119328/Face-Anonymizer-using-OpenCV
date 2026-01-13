@@ -49,7 +49,7 @@ python main.py
 ```
 
 ## 📝 Code Usage and Output
-Code detects color in real time
+Code works on video inputs as well as in real time
 Images are just used to display its efficiency
 #### Input vs Output
 
@@ -59,9 +59,3 @@ Images are just used to display its efficiency
 
 **Input Image Path:** `image/face.jpg`  
 **Output Image Path:** `image/out.jpg`
-
-#### Input vs Output Video
-
-| Input | Output |
-|------|--------|
-| [▶️ test.mp4](video/test.mp4) | [▶️ out.mp4](video/out.mp4) |
